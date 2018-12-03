@@ -1,3 +1,3 @@
 # LXSegmentControl
 
-自定义UI控件SegmentControl
+页面切换，Segment控制
